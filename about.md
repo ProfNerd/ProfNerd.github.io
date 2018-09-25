@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-### WE ARE PEOPLES!
+We are a team of people who make above average games.
